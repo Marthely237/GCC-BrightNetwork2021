@@ -63,12 +63,12 @@ This will allow your editor to correctly index the project.
 
 To run the Application, create a new "Run/Debug configuration":
 * Run > Edit Configurations > "+" Button > Python
-![intellij_setup](intellij_setup.png)
+
 
 To run the tests, add a pytest configuration as follows:
 * Run > Edit Configurations > "+" Button > Python tests > pytest
 
-![intellij_test_setup](intellij_test_setup.png)
+
 
 Then you will be able to run and debug the unit tests.
 
